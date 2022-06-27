@@ -1,0 +1,11 @@
+*.py[cod]
+venv*/
+.idea/
+*.tmp*
+*.ovpn
+env*/
+*.pem
+tmp/ignore/
+/static/
+.env
+db.sqlite3
